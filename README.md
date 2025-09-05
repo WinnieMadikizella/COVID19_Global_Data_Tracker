@@ -1,5 +1,9 @@
 # COVID-19 Global Data Tracker
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Dataset](https://img.shields.io/badge/Dataset-OWID-lightgrey)
+
 ## Overview
 The COVID-19 Global Data Tracker is a Jupyter Notebook project designed to monitor and analyze the worldwide impact of the COVID-19 pandemic. It leverages real-world datasets from Our World in Data (OWID) to visualize trends in:
 
